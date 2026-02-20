@@ -71,8 +71,8 @@ diagrams.addEventListener('click', () => {
         <div class="pageTitle">Diagrams</div>
         <div class="pageContent">
             <div class="contentblock">
-                <img src="Images/Bubble Diagram 1.jpg" alt="" class="contentImg">
-                <img src="Images/Bubble Diagram 2.jpg" alt="" class="contentImg">
+                <img src="Bubble Diagram 1.jpg" alt="" class="contentImg">
+                <img src="Bubble Diagram 2.jpg" alt="" class="contentImg">
                 <div class="contentDetails">
                     <div class="contentTitle">Bubble Diagram</div>
                     <div class="contentText">These are our bubble diagram pictures. These images represent the imagined desires and necessities of our client. Our bubble diagram shows everything our client would need in their townhome.</div>
@@ -342,3 +342,4 @@ document.addEventListener('click', (e) => {
         modal.classList.remove('active');
     }
 });
+
