@@ -10,7 +10,7 @@
 }
 
 body {
-    background: url('Images/Body.jpg') no-repeat center center fixed;
+    background: url('Body.jpg') no-repeat center center fixed;
     background-size: cover;
     color: var(--text-color);
     font-family: var(--font-family);
@@ -133,4 +133,5 @@ body:before {
 .contentText {
     font-size: 18px;
     color: var(--bg-light);
+
 }
