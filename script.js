@@ -10,7 +10,7 @@ home.addEventListener('click', () => {
         <div class="pageTitle">About the family</div>
         <div class="pageContent">
             <div class="contentblock">
-                <img src="9C41C859-40FA-4CEC-8289-D8D86345EF8D.png" alt="" class="contentImg">
+                <img src="Family Picture.png" alt="" class="contentImg">
                 <div class="contentDetails">
                     <div class="contentTitle">Family Introduction</div>
                     <div class="contentText">Our clients, Chioma Onwuka, and her 3 children, Toby, Adebayo, and Emaka Onwuka along with their dog, Roman. They came from Nigeria to NC to seek a better environment because of conflict in their hometown. The family would need atleast 3 bedrooms, 2 bathrooms, a living room and nursery for the youngest child. They would also like a terrace. We are prepared to provide the needs for this family to our fullest extent.</div>
@@ -342,6 +342,3 @@ document.addEventListener('click', (e) => {
         modal.classList.remove('active');
     }
 });
-
-
-
